@@ -129,7 +129,8 @@ function fillTemplate(template, data) {
   });
 }
 
-function generateStoryCard(infoObject) {
+// Not implemented yet.
+function generateStoryCard(storyCardTemplate, infoObject) {
   let cardData = fillTemplate(storyCardTemplate, infoObject); 
   infoObject.storyCard = cardData; 
 }
