@@ -4,11 +4,7 @@
 
 // Any functions or variables you define here will be available in your other modifier scripts.
 
-// const secretNameOfTheKing = 'Bob'
 
-// function getKingName() {
-//   return secretNameOfTheKing
-// }
 let counter = 0;
 
 class JSONParseError extends Error {}
